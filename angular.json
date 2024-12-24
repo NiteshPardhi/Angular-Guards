@@ -77,6 +77,10 @@
               "buildTarget": "Angular-Guards:build:development"
             }
           },
+          "options": {
+            "port": 2222,
+            "host": "0.0.0.0"
+          },
           "defaultConfiguration": "development"
         },
         "extract-i18n": {
